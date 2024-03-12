@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-08T15:25:56 IST" name="Default suite" finished-at="2024-03-08T15:26:05 IST" duration-ms="9096">
+  <suite started-at="2024-03-12T10:47:03 IST" name="Default suite" finished-at="2024-03-12T10:47:24 IST" duration-ms="21062">
     <groups>
     </groups>
-    <test started-at="2024-03-08T15:25:56 IST" name="Default test" finished-at="2024-03-08T15:26:05 IST" duration-ms="9096">
-      <class name="testCases.TC_002_Login">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_002_Login@6bbe85a8]" started-at="2024-03-08T15:25:56 IST" name="setup" finished-at="2024-03-08T15:26:03 IST" duration-ms="6135" status="PASS">
+    <test started-at="2024-03-12T10:47:03 IST" name="Default test" finished-at="2024-03-12T10:47:24 IST" duration-ms="21062">
+      <class name="testCases.Tc_001_NewRegistration">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Tc_001_NewRegistration@6bbe85a8]" started-at="2024-03-12T10:47:03 IST" name="setup" finished-at="2024-03-12T10:47:09 IST" duration-ms="6053" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginAccount()[pri:0, instance:testCases.TC_002_Login@6bbe85a8]" started-at="2024-03-08T15:26:03 IST" name="LoginAccount" finished-at="2024-03-08T15:26:05 IST" duration-ms="2411" status="PASS">
+        <test-method signature="registrationAccout()[pri:0, instance:testCases.Tc_001_NewRegistration@6bbe85a8]" started-at="2024-03-12T10:47:09 IST" name="registrationAccout" finished-at="2024-03-12T10:47:24 IST" duration-ms="14588" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginAccount -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC_002_Login@6bbe85a8]" started-at="2024-03-08T15:26:05 IST" name="close" finished-at="2024-03-08T15:26:05 IST" duration-ms="442" status="PASS">
+        </test-method> <!-- registrationAccout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.Tc_001_NewRegistration@6bbe85a8]" started-at="2024-03-12T10:47:24 IST" name="close" finished-at="2024-03-12T10:47:24 IST" duration-ms="322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- testCases.TC_002_Login -->
+      </class> <!-- testCases.Tc_001_NewRegistration -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
